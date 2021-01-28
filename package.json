@@ -13,7 +13,7 @@
   "author": "Brad Van Fleet",
   "license": "MIT",
   "dependencies": {
-    "electron": "^7.2.4",
+    "electron": "^9.4.0",
     "msnodesqlv8": "^0.8.6"
   }
 }
